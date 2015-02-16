@@ -13,11 +13,19 @@ layout: default
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
 * [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
 
+## Shell
+
+* [blinkenshell.org](http://blinkenshell.org/wiki/Start) free unix shell accounts
+
 ## Reverse Image Search
 
 * [tineye.com](https://www.tineye.com/) General
 * [images.google.com](https://images.google.com/) General
 * [saucenao.com](http://saucenao.com/) Anime, Hentai, Manga, Pixiv
+
+## Email
+
+* [forward.cat](http://forward.cat/) free temporary mail forwarding
 
 ## Databases
 
