@@ -13,6 +13,17 @@ layout: default
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
 * [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
 
+## Reverse Image Search
+
+* [tineye.com](https://www.tineye.com/) General
+* [images.google.com](https://images.google.com/) General
+* [saucenao.com](http://saucenao.com/) Anime, Hentai, Manga, Pixiv
+
+## Databases
+
+* [openlibrary.org](https://openlibrary.org/) One web page for every book
+* [myanimelist.net](http://myanimelist.net/) Anime, Hentai, Manga
+
 ## License
 
 [MIT License](http://chibicode.mit-license.org/)
