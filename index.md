@@ -11,7 +11,7 @@ layout: default
 ## VPN
 
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
-
+* [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
 
 ## License
 
