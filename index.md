@@ -5,12 +5,14 @@ layout: default
 ## Hosting
 
 * [transfer.sh](https://transfer.sh/) ad ad-free, temporary, ssl file hoster up to 5 GB
-* [pomf.se](https://pomf.se/) an ad-free file hoster up to 50 MB
 * [uguu.se](http://uguu.se/) an ad-free temporary file hoster up to 150 MB
 * [sprunge.us](http://sprunge.us/) innovative command line pastebin
  
-## VPN
+## Privacy
 
+(Do not use DuchDuchGo [if you care about privacy](https://8ch.net/tech/ddg.html)).
+
+* [privacytools.io](https://www.privacytools.io/) a list with useful tools and recommondations for privacy
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
 * [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
 
