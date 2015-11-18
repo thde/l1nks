@@ -10,7 +10,7 @@ layout: default
  
 ## Privacy
 
-(Do not use DuchDuchGo [if you care about privacy](https://8ch.net/tech/ddg.html)).
+(Do not use DuckDuckGo [if you care about privacy](https://8ch.net/tech/ddg.html)).
 
 * [privacytools.io](https://www.privacytools.io/) a list with useful tools and recommondations for privacy
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
