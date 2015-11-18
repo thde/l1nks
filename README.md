@@ -1,5 +1,4 @@
-# Solo 
+# l1nks 
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[Solo](http://l1nks.thde.io) is a collection of links for useful sites/tools.
 
-### [Demo & Documentation &rarr;](http://solo.chibi.io)
