@@ -19,6 +19,7 @@ layout: default
 ## Shell
 
 * [blinkenshell.org](http://blinkenshell.org/wiki/Start) free unix shell accounts
+* [sdf.lonestar.org](http://sdf.lonestar.org/) blinkenshell alternative
 
 ## Reverse Image Search
 
