@@ -15,6 +15,7 @@ layout: default
 * [privacytools.io](https://www.privacytools.io/) a list with useful tools and recommondations for privacy
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
 * [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
+* [gethttpsforfree.com](https://gethttpsforfree.com/) a open source web client for let's encrypt
 
 ## Shell
 
