@@ -21,6 +21,7 @@ layout: default
 
 * [blinkenshell.org](http://blinkenshell.org/wiki/Start) free unix shell accounts
 * [sdf.lonestar.org](http://sdf.lonestar.org/) blinkenshell alternative
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) zsh plugin list
 
 ## Reverse Image Search
 
