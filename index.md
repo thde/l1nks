@@ -7,6 +7,7 @@ layout: default
 * [transfer.sh](https://transfer.sh/) ad ad-free, temporary, ssl file hoster up to 5 GB
 * [uguu.se](http://uguu.se/) an ad-free temporary file hoster up to 150 MB
 * [sprunge.us](http://sprunge.us/) innovative command line pastebin
+* [github.com/kickball/awesome-selfhosted](https://github.com/kickball/awesome-selfhosted) List with awesome self hosted apps
  
 ## Privacy
 
