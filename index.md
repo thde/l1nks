@@ -17,6 +17,7 @@ layout: default
 * [mullvad.net](https://mullvad.net/en/) quite good vpn provider
 * [perfect-privacy.com](https://perfect-privacy.com) another very reliable vpn provider
 * [gethttpsforfree.com](https://gethttpsforfree.com/) a open source web client for let's encrypt
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) a list of zsh plugins
 
 ## Shell
 
