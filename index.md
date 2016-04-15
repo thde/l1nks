@@ -36,8 +36,11 @@ layout: default
 
 ## Databases
 
-* [openlibrary.org](https://openlibrary.org/) One web page for every book
-* [myanimelist.net](http://myanimelist.net/) Anime, Hentai, Manga
+* [openlibrary.org](https://openlibrary.org/) one web page for every book
+
+## Tools
+
+* [httpbin.org](https://httpbin.org/) test tools/api to use with curl
 
 ## License
 
